@@ -1,0 +1,24 @@
+{
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "name": "note-taker-express",
+  "description": "",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/michaelreyes10/note-taker-express.git"
+  },
+  "author": "Michael Reyes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/michaelreyes10/note-taker-express/issues"
+  },
+  "homepage": "https://github.com/michaelreyes10/note-taker-express#readme",
+  "devDependencies": {}
+}
