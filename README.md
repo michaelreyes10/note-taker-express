@@ -1,7 +1,4 @@
-Note Taker
-
-
-# README Generator
+# Note Taker
 [![MIT](https://img.shields.io/badge/license-MIT-blue)](https://opensource.org/licenses/MIT)
 ## Table of Contents
 
